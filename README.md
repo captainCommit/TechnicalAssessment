@@ -56,14 +56,6 @@ This will start the development server and open the application in your default 
 
 - `axios`: For making HTTP requests to the JSONPlaceholder API.
 
-## Contributing
+## Problems (Total Assessment time is 45 mins)
 
-If you have any suggestions or improvements, feel free to create a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README file further to fit your specific needs and preferences.
+- You can find a list of problems in PostTable.js
