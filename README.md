@@ -1,7 +1,3 @@
-Sure, here's a README file for your project.
-
----
-
 # JSONPlaceholder React App
 
 This repository contains a technical assessment for React. The application fetches information from the JSONPlaceholder API and displays the results in a tabular format. It also provides filtering options for date and topic. Additionally, the repository includes tests for the application.
